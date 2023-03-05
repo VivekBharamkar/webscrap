@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'webscrapper'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_29BF36D2302E460EAA4EFA0DC6CBFC75 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_D0CDF45E51DF4CCF898D4018F2EAF9F9 }}
